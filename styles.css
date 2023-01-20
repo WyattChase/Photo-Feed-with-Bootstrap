@@ -1,4 +1,7 @@
+.container {
+    display: block;
+}
 
-.btn-link {
+.Nav-link {
     color: red;
 }
